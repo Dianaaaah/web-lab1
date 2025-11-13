@@ -1,8 +1,7 @@
 body {
-    font-family: "Noto Sans JP", sans-serif;
+    font-family: "Noto Sans JP";
     background: #f5f1ea; 
     color: #3b2f2a; 
-    line-height: 1.5;
 }
 
 /* шапка */
@@ -127,5 +126,3 @@ a {
 a:hover {
     text-decoration: underline;
 }
-
-
